@@ -33,7 +33,7 @@ genetic networks), **manufacturing and production-line analysis**, and **healthc
 and service systems**.
 
 In June 2023 I defended my Habilitation à Diriger des Recherches (HDR),
-[*Contributions to formal modelling and analysis of stochastic models*] (/publications/PaoloBallarini_HDR.pdf).
+[*Contributions to formal modelling and analysis of stochastic models*](/publications/PaoloBallarini_HDR.pdf).
 
 ## Get in touch
 

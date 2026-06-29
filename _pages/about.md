@@ -32,8 +32,8 @@ biology** (oscillatory dynamics such as the cell cycle and circadian rhythms,
 genetic networks), **manufacturing and production-line analysis**, and **healthcare
 and service systems**.
 
-In February 2025 I defended my Habilitation à Diriger des Recherches (HDR),
-*Contributions to formal modelling and analysis of stochastic models*.
+In June 2023 I defended my Habilitation à Diriger des Recherches (HDR),
+[*Contributions to formal modelling and analysis of stochastic models*] (/publications/PaoloBallarini_HDR.pdf).
 
 ## Get in touch
 

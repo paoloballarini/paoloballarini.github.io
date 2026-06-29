@@ -10,7 +10,7 @@ site_theme               : "default" # "default", "air", "sunrise", "mint", "dir
 title                    : "Paolo Ballarini"
 title_separator          : "-"
 name                     : &name "Paolo Ballarini"
-description              : &description "Academic homepage of Paolo Ballarini — Associate Professor (MCF HDR) in Computer Science at CentraleSupélec, Université Paris-Saclay."
+description              : &description "Academic homepage of Paolo Ballarini — Associate Professor (MCF HDR) in Computer Science at CentraleSupélec, Univ. Paris-Saclay."
 url                      : https://paoloballarini.github.io
 baseurl                  : ""
 repository               : "paoloballarini/paoloballarini.github.io"
@@ -23,7 +23,7 @@ author:
   pronouns         :
   bio              : "Associate Professor (MCF HDR) in Computer Science"
   location         : "Gif-sur-Yvette, France"
-  employer         : "CentraleSupélec, Université Paris-Saclay — MICS Laboratory · Head of the Computer Science Department"
+  employer         : "CentraleSupélec, Univ. Paris-Saclay — MICS Laboratory · Head of the Computer Science Department"
   uri              :
   email            : "paolo.ballarini@centralesupelec.fr"
 

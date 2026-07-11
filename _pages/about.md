@@ -34,9 +34,12 @@ and service systems**.
 In June 2023 I defended my Habilitation à Diriger des Recherches (HDR),
 [*Contributions to formal modelling and analysis of stochastic models*](/files/PaoloBallarini_HDR.pdf).
 
+
+{% comment %}
 ## Get in touch
 
 You can browse my [publications](/publications/) and [talks](/talks/), or reach me
 by [email](mailto:paolo.ballarini@centralesupelec.fr). My work is also listed on
 [Google Scholar](https://scholar.google.com/citations?user=x33ZEbsAAAAJ&hl=en) and
 [ORCID](https://orcid.org/0000-0002-4652-3953).
+{% endcomment %}

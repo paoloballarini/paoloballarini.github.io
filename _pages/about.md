@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Paolo Ballarini"
 author_profile: true
 redirect_from:
   - /about/

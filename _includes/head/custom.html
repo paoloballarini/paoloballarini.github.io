@@ -14,4 +14,31 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Publications list styling -->
+<style>
+  /* one entry per paper, separated by a light divider */
+  .pub-item { padding: 0.85rem 0; border-bottom: 1px solid #e7e7e7; }
+  .pub-item:last-child { border-bottom: none; }
+
+  /* paper title: dark red, italic, with a small bullet marker */
+  .archive__item-title.pub-title {
+    color: #8B0000;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin: 0 0 0.2rem 0;
+  }
+  .archive__item-title.pub-title::before {
+    content: "\25B8";            /* ▸  change to "\2022" for a round bullet */
+    color: #8B0000;
+    font-style: normal;
+    margin-right: 0.45rem;
+  }
+
+  .pub-venue     { color: #555; font-size: 0.9rem;  margin: 0 0 0.3rem 0; }
+  .pub-rationale { font-size: 0.95rem; margin: 0.2rem 0 0.3rem 0; }
+  .pub-rationale strong { color: #8B0000; }
+  .pub-links     { font-size: 0.85rem; margin: 0.2rem 0 0 0; }
+</style>
+
 <!-- end custom head snippets -->
